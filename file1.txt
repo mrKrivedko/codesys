@@ -1,1 +1,3 @@
-my first commit 
+my first commit
+and
+my first push 
